@@ -14,5 +14,12 @@ https://www.figma.com/file/JSnJc9RTjqNXWxrmtMmRdA/Embedded-Engineer-Roadmap?type
 ❓**Practice Question:**
 https://cuboid-saga-3cb.notion.site/Embedded-Engineering-Q-A-7e99a75a99044a6497ef0cee36c439a7?pvs=4
 
+**Tutorials:**
+Bare Metal Programming
+
+**Projects:**
+- Yet to be Updated -
+
+
 
 Disclaimer: We're still actively building and refining this repository, so it's not perfect yet! We value your input, so feel free to leave any suggestions, feedback, or even contributions via the Issues section. Let's build a fantastic learning space together!
