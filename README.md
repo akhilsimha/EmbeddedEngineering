@@ -6,19 +6,21 @@ Start with the roadmap or start with the practice questions.
 This repository is a work in progress, constantly evolving to be the best possible resource for the embedded systems community.
 
 🚙**Roadmap:**
+
 https://www.figma.com/file/JSnJc9RTjqNXWxrmtMmRdA/Embedded-Engineer-Roadmap?type=whiteboard&node-id=0%3A1&t=2SSs5Vc92tIPWzRr-1
 
 <img width="3798" alt="Embedded Engineer Roadmap" src="https://github.com/akhilsimha7/EmbeddedEngineering/assets/9052405/ff2fe52a-fefe-4e41-8dec-a84d7b8d5d07">
 
 
 ❓**Practice Question:**
+
 https://cuboid-saga-3cb.notion.site/Embedded-Engineering-Q-A-7e99a75a99044a6497ef0cee36c439a7?pvs=4
 
 **Tutorials:**
-Bare Metal Programming
+- Bare Metal Programming: https://www.youtube.com/watch?v=j4xw8QomkXs
 
 **Projects:**
-- Yet to be Updated -
+- Yet to be Updated 
 
 
 
